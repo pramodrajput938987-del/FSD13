@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 console.log("Hello, World!");
 // function sumofsum(){
@@ -162,3 +163,6 @@ async function loginHandler(){
 }
 loginHandler();
 
+=======
+console.log("Hello, World!");
+>>>>>>> 0441ab8db5235a7f9b4220263a7c0dc5c84a00df
